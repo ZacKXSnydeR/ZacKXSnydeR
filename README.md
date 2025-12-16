@@ -26,12 +26,12 @@
 
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,express,mongodb,postgres,python,git,github,vscode,docker&perline=7" />
+      <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,mongodb,python,git,github,vscode&perline=7" />
     </a>
   </p>
 
   <p align="center">
-    <b>Building with AI:</b> OpenAI API • LangChain • Hugging Face • Copilot
+    <b>Building with AI:</b> OpenAI API • Gemini API • Copilot
   </p>
 
   ---
@@ -42,9 +42,4 @@
     <img src="https://github-readme-stats.vercel.app/api?username=ZacKXSnydeR&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZacKXSnydeR&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Languages" />
   </p>
-  
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZacKXSnydeR&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak" />
-  </p>
-
 </div>
